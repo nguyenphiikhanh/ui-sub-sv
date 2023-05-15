@@ -1,0 +1,26 @@
+/*
+Theme Name: SaoBien
+Theme URI: 
+Description: Theme Wordpress option of Sao Bien
+Version: 3.0
+Author: LNDH
+*/
+
+li.lang-item {
+  list-style: none;
+  margin: 5px;
+}
+.singlebox{
+	padding:15px;
+}
+.singlebox img {
+	max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #cdcdcd;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 0.3rem;
+}
